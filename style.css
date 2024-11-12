@@ -1,0 +1,12 @@
+.countainer{
+    display: flex;
+    height: 100vh;
+    max-width: 1580px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+.box{
+    width: 33%;
+    background-color: red;
+    border: 2px solid black;
+}
